@@ -1,0 +1,17 @@
+
+langchain
+dashscope
+chromadb
+lark
+langchain_openai
+bs4
+faiss
+langchainhub
+langserve
+sse_starlette
+pydantic==1.10.13
+
+langserve[all]
+langsmith
+
+ls__eaf357058c534c5da51bd8574575c046
